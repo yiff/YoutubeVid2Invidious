@@ -1,6 +1,8 @@
 # YoutubeVid2Invidious
 a firefox extension to redirect youtube videos to invidious, but not in a stupid way.
 
+an upgraded fork of https://codeberg.org/al-andalusian/youtube-video-to-invidious 's work.
+
 install the addon into your firefox, and now when you go to youtube you can browse it like normal and when you 
 click on a youtube video or open up a youtube video in a new tab, it will simply redirect the video to an invidious 
 mirror of your choosing! the default mirror is set up as yew.tube, but you're able to change it to whatever mirror 
